@@ -1,0 +1,16 @@
+.top-menu header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: black;
+}
+.top-menu header a{
+    display: flex;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+}
+.top-menu header img{
+    max-width: 150px;
+    max-height: 65px;
+}
