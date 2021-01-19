@@ -14,3 +14,13 @@
     max-width: 150px;
     max-height: 65px;
 }
+.TextTilulo{
+    background-color:black;
+    color: #fff;
+    text-align: center;
+    border-style: solid;
+    border-bottom-width: 5px;
+    border-top-width: 2px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+}
