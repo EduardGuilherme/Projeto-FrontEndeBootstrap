@@ -1,11 +1,9 @@
 footer{
-	margin:0,auto;
+        margin:150px;
 	font-size:65%;
-	max-width: 940px;
         font-family: Verdana;
         text-align:center;
-        justify-content: center;
-    padding:20px 0;
+        padding: 0;
     
 }
 footer p{

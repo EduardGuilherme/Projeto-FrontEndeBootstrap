@@ -1,0 +1,10 @@
+.infContatos{
+    display: flex;
+    max-width: 850px;
+    align-items: center;
+    justify-content: space-around;
+}
+.information{
+    font-size: 15px;
+    font-weight: bold;
+}
