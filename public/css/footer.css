@@ -1,6 +1,6 @@
 footer{
-        margin:150px;
-	font-size:65%;
+        margin-top: auto;
+        font-size:65%;
         font-family: Verdana;
         text-align:center;
         padding: 0;
@@ -10,4 +10,12 @@ footer p{
 	margin:0; 
         padding:5px;
         
+}
+.iconContacts{
+        display: flex;
+        align-items:center;
+        justify-content: flex-end;
+}
+.iconContacts a img{
+        width: 50px;
 }
